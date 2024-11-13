@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week8EpicGame", "Week8EpicGame\Week8EpicGame.csproj", "{A97CCBDE-5979-4736-8571-26D5EFC4E46B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A97CCBDE-5979-4736-8571-26D5EFC4E46B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A97CCBDE-5979-4736-8571-26D5EFC4E46B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A97CCBDE-5979-4736-8571-26D5EFC4E46B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A97CCBDE-5979-4736-8571-26D5EFC4E46B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17820699-AE14-42B4-B075-63ECD1309272}
+	EndGlobalSection
+EndGlobal
